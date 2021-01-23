@@ -1,1 +1,159 @@
+#EXTM3U
+====================================================INDONESIA=========================================================
+#EXTINF:-1 tvg-logo="https://images-channel.mivo.com/channel/image/8/img-live-transtv.jpg" group-title="INDONESIA" , TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1512030896_b744100_sleng.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://images-channel.mivo.com/channel/image/13/img-live-mnctv.jpg" group-title="INDONESIA" , MNCTV
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="INDONESIA" , INDOSIAR
+http://210.210.155.35/session/s/qwr9ew/s/s04/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/200px-Antv_logo_%282017%29.svg.png" group-title="INDONESIA" , ANTV
+http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
+ 
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/RCTI_2015.svg/200px-RCTI_2015.svg.png" group-title="INDONESIA" , RCTI
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 
+#EXTINF:-1 tvg-id="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/200px-SCTV_Logo.svg.png" group-title="INDONESIA" , SCTV
+http://45.126.83.51/session/d80df878-8cad-11ea-bfcb-b2cb8b1764b3/qwr9ew/s/s03/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://rctiplus.com/assets/image/elements/logo-gtv.png" group-title="INDONESIA" , GLOBALTV
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-UkrWcP99K98/W6rZxAtXjpI/AAAAAAAAAsM/vWl7W0F0t1Mn1jJHl6eaUoOdiyOh1R-PwCK4BGAYYCw/s1600/tvone-tv-stream-60883f.jpg" group-title="INDONESIA" , TVONE
+http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-channel.mivo.com/channel/image/11/img-live-metrotv.jpg" group-title="INDONESIA" , Metro TV
+http://210.210.155.35/session/891d1232-da7b-11ea-934d-b82a72d63267/uq2663/h/h12/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-channel.mivo.com/channel/image/9/img-live-trans7.jpg" group-title="INDONESIA" , TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://images-channel.mivo.com/channel/image/98/img-live-inewstv.jpg" group-title="INDONESIA" , INEWS TV
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://images-channel.mivo.com/channel/image/51/img-live-nettv.jpg" group-title="INDONESIA" , NET.
+http://210.210.155.35/session/82f964ec-b937-11ea-b1f3-c81f66f89318/qwr9ew/s/s08/01.m3u8
+ 
+#EXTINF:0 tvg-logo="https://images-channel.mivo.com/channel/image/50/img-live-rtv.jpg" group-title="INDONESIA" , RTV
+http://210.210.155.35/session/a90cdc18-b937-11ea-b1f3-c81f66f89318/qwr9ew/s/s12/01.m3u8
+ 
+#EXTINF:0 tvg-logo="https://images-channel.mivo.com/channel/image/21/img-live-tvrinasional.jpg" group-title="INDONESIA" , TVRI
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+ 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/1200px-JTV_%282012%29.svg.png" group-title="INDONESIA" , JTV Surabaya
+http://122.248.43.138:1935/ch2/myStream/chunklist_w1177886997.m3u8
+ 
+#EXTINF:0 tvg-logo="https://www.beritasatu.com/assets/img/beritasatu-logo.jpg" group-title="INDONESIA" , BERITA SATU
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+ 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="INDONESIA" , CNN INDONESIA
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+
+#EXTINF:0 tvg-logo="https://seeklogo.com/images/K/kompastv-logo-699982D255-seeklogo.com.png" group-title="INDONESIA" , Kompas TV
+http://210.210.155.35:80/qwr9ew/s/s104/01.m3u8
+====================================================KIDS=========================================================
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/200px-2014_Disney_Channel_logo.svg.png" group-title="KIDS", DISNEY CHANNEL
+http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
+ 
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/83-835216_disney-junior-png-junior-disney-ai-logo-transparent.png" group-title="KIDS" , DISNEY JUNIOR
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.awn.com/sites/default/files/styles/inline_medium/public/image/featured/1041060-dreamworks-animation-launches-dreamworks-shorts-bird-karma.jpg?itok=NN7ykEwN" group-title="KIDS" , DREAMWORKS
+https://vcdnjt.useetv.com/joss/15/dreamworks/chunklist_w1016025798_b894100_sleng.m3u8?b4wq2Fz9qPzjJTNgknB-kQ1584799531
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/5a/BabyFirst.svg/405px-BabyFirst.svg.png" group-title="KIDS" , Baby First
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.pinclipart.com/picdir/middle/335-3359395_miao-mi-miao-mi-channel-clipart.png" group-title="KIDS" , MIAO MI
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/300px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS" , CARTOON NETWORK
+http://203.153.218.28:9981/stream/channelid/251475608?ticket=7E119C03289B159B121AD74C428131F98E22DBB7&profile=pass
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="KIDS" , BOOMERANG
+http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8?fluxustv.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/Nickelodeon-logo-EE5D227F65-seeklogo.com.png" group-title="KIDS" , NICKELODEON
+http://203.153.218.28:9981/stream/channelid/648970596?ticket=0DB19E0638CE26116D1EAB88EABDF8BB02DA784A&profile=pass
+ 
+#EXTINF:-1  tvg-logo="http://www.dens.tv/images/channel-logo/97.jpg" group-title="KIDS" , ANIMAX
+http://210.210.155.35/session/608c31d4-83f7-11ea-8435-b82a72d63267/dr9445/h/h144/01.m3u8
+ 
+#EXTINF:-1  tvg-logo="https://images.sgcafe.net/2017/08/Aniplus-HD.jpg" group-title="KIDS" , ANIPLUS
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WnZaIlo.jpg" group-title="KIDS" , DUCK TV
+http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
+ 
+#EXTINF:-1 logo="https://i.ytimg.com/vi/YiiTZ-f32oU/hqdefault_live.jpg" group-title="KIDS", LARVA TV
+http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
+====================================================SPORT=========================================================
+#EXTINF:-1 tvg-logo="https://images.useetv.com/tvposter/useeSport.png" group-title="SPORT" , Usee Sports
+https://vcdnjt.useetv.com:443/joss/15/useesport/chunklist_w1734341269_b894100_sleng_177560.m3u8?enc=04WgtycFcN-cMIKu6JcrMQ&exp=1587471571
+ 
+#EXTINF:-1 tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_1_100X56.png" group-title="SPORT" , beIN Sports 1
+http://latvonlive.com:33612/Pablo/1234/261?checkedby:iptvcat.com
+ 
+#EXTINF:-1 tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_2_100X56.png" group-title="SPORT" , beIN Sports 2
+https://vcdnjt.useetv.com:443/joss/15/bein2/chunklist_w878851015_b684100_sleng_177560.m3u8?enc=G8yv_dvfJqqhAeaNzTgXnw&exp=1587471247
+ 
+#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="SPORT" , Fox Sports 1
+https://vcdnjt.useetv.com:443/joss/15/foxsport1/chunklist_w778289513_b684100_sleng_177560.m3u8?enc=RZp4RrKSIXNxicaYY6fPTA&exp=1585292462&encp=vOXSyGKpZ9gytSWn62XF6A&expp=1585301162
+ 
+#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="SPORT" , Fox Sports 2
+https://vcdnjt.useetv.com:443/joss/15/foxsport2/chunklist_w790481523_b684100_sleng_177560.m3u8?enc=5gkf76mgRhgfATyaSDHCoQ&exp=1585292570&encp=sKlDtjs9_zyjTnlRJ_y2xg&expp=1585301270
+ 
+#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="SPORT" , Fox Sports 3
+https://vcdnjt.useetv.com:443/joss/15/foxsport3/chunklist_w1060961009_b684100_sleng_177560.m3u8?enc=2hIiDmbLnO9ik34eetLTmA&exp=1585292600&encp=iJ65wN8Fe6GtQazh5mtC3A&expp=1585301300
+====================================================MOVIE=========================================================
+#EXTINF:-1 tvg-logo="https://myrepublic.co.id/wp-content/uploads/2019/02/sinema-indonesia.jpg" group-title="MOVIE" , SINEMA INDONESIA
+http://210.210.155.35/session/44f6d74a-01a1-11ea-b55a-9182955aa916/x6bnqe/s/s71/S4/mnf.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2018/01/hbo_logo.jpg" group-title="MOVIE" , HBO
+http://203.153.218.28:9981/stream/channelid/1299824667?ticket=D8E336A68F41FF0719427512D203E63B86CBE811&profile=pass
+ 
+#EXTINF:-1 tvg-logo="https://www.mewatch.sg/image/11230408/16x9/947/533/aee3ee3e5c1faea19d10b8a70780d63d/BR/hbo-family.png" group-title="MOVIE" , HBO FAMILY
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=EC97AD8280CA23BFF13E8E5DAA957216FFC77AEF&profile=pass
+ 
+#EXTINF:-1 tvg-logo="https://www.mewatch.sg/image/11230410/16x9/947/533/774a1f9fa474cbbb865e78b1b71130e3/On/hbo-hits.png" group-title="MOVIE" , HBO HITS
+http://203.153.218.28:9981/stream/channelid/2038175895?ticket=7890B1F6AC797C6402FD196F3C19DBBE48B2A0E2&profile=pass
+ 
+#EXTINF:-1 tvg-logo="https://www.mewatch.sg/image/11230414/16x9/947/533/948a2210f74d3c09a48a4ea245bd8778/Hl/hbo-signature.png" group-title="MOVIE" , HBO Signature
+http://203.153.218.28:9981/stream/channelid/1197019186?ticket=B7E14C10118460B5D38A5D966C9D67EC747B12B8&profile=pass
+ 
+#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/fox-logo-png-white-8.png" group-title="MOVIE" , FOX
+http://203.153.218.28:9981/stream/channelid/1910872088?ticket=49DA2BA4E5AD744321A0A9A18B14BBD86901A8A2&profile=pass
+====================================================FILM INDONESIA=========================================================
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/xrMOBD9e5rPTJlqMBrWH2fhiLPR.jpg" group-title="" ,
+====================================================MUSIK=========================================================
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/Prambors.svg/1200px-Prambors.svg.png" group-title="MUSIK" , PRAMBROS
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(d38de229-8abc-4072-91d4-2c42935f7e3b)/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d1/Karaoke_channel_id.png/revision/latest/scale-to-width-down/340?cb=20190711121840" group-title="MUSIK" , Karaoke Channel
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?fluxustv.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1149.1464128411.png" group-title="MUSIK" , BOX HITS
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+====================================================RADIO=========================================================
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/49/Logo_-_Radio_Retjo_Buntung_FM_Yogyakarta.jpg/250px-Logo_-_Radio_Retjo_Buntung_FM_Yogyakarta.jpg" group-title="RADIO" , Retjo Buntung Yogyakarta 99.4FM
+http://45.64.97.82:9940/;
+ 
+#EXTINF:-1  tvg-logo="https://cdn.webrad.io/images/logos/radioonline-co-id/jiz-yogyakarta.png" group-title="RADIO" , Jiz 89.5FM
+http://jkt.jogjastreamers.com:8000/jisstereo
+ 
+#EXTINF:-1  tvg-logo="http://jogjastreamers.com/cni-content/uploads/modules/radio/thumbs/small/20200804100137.png" group-title="RADIO" , IRadio 88.7
+http://cloudstreaming.mramedia.com:8006/live
+ 
+#EXTINF:-1 tvg-logo="https://indostreamers.com/cni-content/uploads/modules/radio/thumbs/large/20160822013714.png" group-title="RADIO" ,GCD Joga 98.6FM
+http://jkt.jogjastreamers.com:8000/gcdstereo
+ 
+#EXTINF:-1 tvg-logo="https://indostreamers.com/cni-content/uploads/modules/radio/thumbs/large/20150713032042.jpg" group-title="RADIO" ,MBS 92.7FM
+http://jkt.jogjastreamers.com:8000/mbs2345stereo
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/Prambors.svg/1200px-Prambors.svg.png" group-title="RADIO" ,Prambors Jogja 95.8FM
+http://masima.rastream.com/masima-pramborsyogya?
+ 
+#EXTINF:-1 tvg-logo="https://indostreamers.com/cni-content/uploads/modules/radio/thumbs/large/20160427090757.png" group-title="RADIO" ,Swaragama Jogja 101.7FM
+http://jkt.jogjastreamers.com:8000/swaragama456789stereo
