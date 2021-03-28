@@ -1,4 +1,4 @@
-#EXTM3U
+https://n11.radiojar.com/4ywdgup3bnzuv?rj-ttl=5&rj-tok=AAABeHn2D0sAeASYli7ciVktqQ#EXTM3U
 ====================================================INDONESIA=========================================================
 #EXTINF:-1 tvg-logo="https://images-channel.mivo.com/channel/image/8/img-live-transtv.jpg" group-title="INDONESIA" , TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1512030896_b744100_sleng.m3u8
@@ -144,7 +144,7 @@ http://45.64.97.82:9940/;
 http://jkt.jogjastreamers.com:8000/jisstereo
  
 #EXTINF:-1  tvg-logo="http://jogjastreamers.com/cni-content/uploads/modules/radio/thumbs/small/20200804100137.png" group-title="RADIO" , IRadio 88.7
-http://cloudstreaming.mramedia.com:8006/live
+https://n11.radiojar.com/4ywdgup3bnzuv?rj-ttl=5&rj-tok=AAABeHn2D0sAeASYli7ciVktqQ
  
 #EXTINF:-1 tvg-logo="https://indostreamers.com/cni-content/uploads/modules/radio/thumbs/large/20160822013714.png" group-title="RADIO" ,GCD Joga 98.6FM
 http://jkt.jogjastreamers.com:8000/gcdstereo
