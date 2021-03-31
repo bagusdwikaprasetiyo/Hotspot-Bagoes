@@ -5,6 +5,8 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1512030896_b744100_
  
 #EXTINF:-1 tvg-logo="https://images-channel.mivo.com/channel/image/13/img-live-mnctv.jpg" group-title="INDONESIA" , MNCTV
 https://moegi.akamaized.net/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+
+
  
 #EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="INDONESIA" , INDOSIAR
 http://210.210.155.35/session/s/qwr9ew/s/s04/01.m3u8
@@ -16,7 +18,7 @@ http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
 https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/200px-SCTV_Logo.svg.png" group-title="INDONESIA" , SCTV
-http://45.126.83.51/session/d80df878-8cad-11ea-bfcb-b2cb8b1764b3/qwr9ew/s/s03/01.m3u8
+http://210.210.155.35/session/qwr9ew/s/s03/02.m3u8
  
 #EXTINF:-1 tvg-logo="https://rctiplus.com/assets/image/elements/logo-gtv.png" group-title="INDONESIA" , GLOBALTV
 https://moegi.akamaized.net/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
