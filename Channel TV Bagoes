@@ -1,4 +1,4 @@
-https://n11.radiojar.com/4ywdgup3bnzuv?rj-ttl=5&rj-tok=AAABeHn2D0sAeASYli7ciVktqQ#EXTM3U
+#EXTM3U
 ====================================================INDONESIA=========================================================
 #EXTINF:-1 tvg-logo="https://images-channel.mivo.com/channel/image/8/img-live-transtv.jpg" group-title="INDONESIA" , TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1512030896_b744100_sleng.m3u8
@@ -139,15 +139,9 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=htt
 ====================================================RADIO=========================================================
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/49/Logo_-_Radio_Retjo_Buntung_FM_Yogyakarta.jpg/250px-Logo_-_Radio_Retjo_Buntung_FM_Yogyakarta.jpg" group-title="RADIO" , Retjo Buntung Yogyakarta 99.4FM
 http://45.64.97.82:9940/;
-
-#EXTINF:-1  tvg-logo="https://cdn.webrad.io/images/logos/radioonline-co-id/jiz-yogyakarta.png" group-title="RADIO" , Jiz 89.5FM
-http://jkt.jogjastreamers.com:8000/jisstereo
  
 #EXTINF:-1  tvg-logo="http://jogjastreamers.com/cni-content/uploads/modules/radio/thumbs/small/20200804100137.png" group-title="RADIO" , IRadio 88.7
 https://n11.radiojar.com/4ywdgup3bnzuv?rj-ttl=5&rj-tok=AAABeHn2D0sAeASYli7ciVktqQ
- 
-#EXTINF:-1 tvg-logo="https://indostreamers.com/cni-content/uploads/modules/radio/thumbs/large/20160822013714.png" group-title="RADIO" ,GCD Joga 98.6FM
-http://jkt.jogjastreamers.com:8000/gcdstereo
  
 #EXTINF:-1 tvg-logo="https://indostreamers.com/cni-content/uploads/modules/radio/thumbs/large/20150713032042.jpg" group-title="RADIO" ,MBS 92.7FM
 http://jkt.jogjastreamers.com:8000/mbs2345stereo
