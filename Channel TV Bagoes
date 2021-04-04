@@ -18,7 +18,7 @@ https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-m
 #EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/200px-SCTV_Logo.svg.png" group-title="INDONESIA" , SCTV
 http://210.210.155.35/qwr9ew/s/s03/01.m3u8
  
-#EXTINF:-1 tvg-logo="https://rctiplus.com/assets/image/elements/logo-gtv.png" group-title="INDONESIA" , GLOBALTV
+#EXTINF:-1 tvg-logo="https://id.m.wikipedia.org/wiki/Berkas:GTV_(2017).svg" group-title="INDONESIA" , GLOBALTV
 https://moegi.akamaized.net/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-UkrWcP99K98/W6rZxAtXjpI/AAAAAAAAAsM/vWl7W0F0t1Mn1jJHl6eaUoOdiyOh1R-PwCK4BGAYYCw/s1600/tvone-tv-stream-60883f.jpg" group-title="INDONESIA" , TVONE
