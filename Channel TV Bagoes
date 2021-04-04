@@ -139,7 +139,7 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=htt
 ====================================================RADIO=========================================================
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/49/Logo_-_Radio_Retjo_Buntung_FM_Yogyakarta.jpg/250px-Logo_-_Radio_Retjo_Buntung_FM_Yogyakarta.jpg" group-title="RADIO" , Retjo Buntung Yogyakarta 99.4FM
 http://45.64.97.82:9940/;
- 
+
 #EXTINF:-1  tvg-logo="https://cdn.webrad.io/images/logos/radioonline-co-id/jiz-yogyakarta.png" group-title="RADIO" , Jiz 89.5FM
 http://jkt.jogjastreamers.com:8000/jisstereo
  
