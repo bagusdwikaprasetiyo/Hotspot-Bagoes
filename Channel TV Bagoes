@@ -47,6 +47,9 @@ http://122.248.43.138:1935/ch2/myStream/chunklist_w1177886997.m3u8
  
 #EXTINF:0 tvg-logo="https://www.beritasatu.com/assets/img/beritasatu-logo.jpg" group-title="INDONESIA" , BERITA SATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+
+#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-At4b_aeuYZ0/XHsiMVBad_I/AAAAAAAAnZ4/lPCQWFUSgi4mPlhYF6V6_n25JbDar4TfgCLcBGAs/s1600/rri-net-tv-channel-logo.png" group-title="INDONESIA" , RRINET TV
+http://36.89.47.217:11935/rrinet/live/chunklist_kamiselaluada.m3u8
  
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="INDONESIA" , CNN INDONESIA
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
@@ -70,7 +73,7 @@ http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/300px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS" , CARTOON NETWORK
-http://203.153.218.28:9981/stream/channelid/251475608?ticket=7E119C03289B159B121AD74C428131F98E22DBB7&profile=pass
+http://solotv.me:8080/Line1698/b88d5078/144835
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="KIDS" , BOOMERANG
 http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8?fluxustv.m3u8
