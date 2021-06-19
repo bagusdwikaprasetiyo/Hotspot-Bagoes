@@ -4,7 +4,7 @@
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1512030896_b744100_sleng.m3u8
  
 #EXTINF:0 tvg-logo="https://images-channel.mivo.com/channel/image/13/img-live-mnctv.jpg" group-title="INDONESIA" , MNCTV
-https://list.iptvcat.com/my_list/s/9c06f9e243d6711f86a50fd93069d43c.m3u8
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="INDONESIA" , INDOSIAR
 http://210.210.155.35/qwr9ew/s/s04/01.m3u8
