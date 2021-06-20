@@ -4,7 +4,7 @@
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1512030896_b744100_sleng.m3u8
  
 #EXTINF:-1 tvg-logo="https://images-channel.mivo.com/channel/image/13/img-live-mnctv.jpg" group-title="INDONESIA" , MNCTV
-https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8?checkedby:iptvcat.com
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=870
 
 #EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="INDONESIA" , INDOSIAR
 http://210.210.155.35/qwr9ew/s/s04/01.m3u8
@@ -13,13 +13,13 @@ http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
  
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/RCTI_2015.svg/200px-RCTI_2015.svg.png" group-title="INDONESIA" , RCTI
-https://etslive-2-vidio-com.akamaized.net/exp=1624172304~acl=/vp9/665_stream.mpd!/vp9/665/*~hmac=4a4da22bbc154e52c40a0230571d48cfbebced66f019d5eef2d86b987835686e/vp9/665_stream.mpd
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=665
 
 #EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/200px-SCTV_Logo.svg.png" group-title="INDONESIA" , SCTV
 http://210.210.155.35/qwr9ew/s/s03/01.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/800px-GTV_%282017%29.svg.png" group-title="INDONESIA" , GLOBALTV
-https://list.iptvcat.com/my_list/s/40f59089e00b5fea1e922ecc41b4b014.m3u8
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=778
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-UkrWcP99K98/W6rZxAtXjpI/AAAAAAAAAsM/vWl7W0F0t1Mn1jJHl6eaUoOdiyOh1R-PwCK4BGAYYCw/s1600/tvone-tv-stream-60883f.jpg" group-title="INDONESIA" , TVONE
 http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
