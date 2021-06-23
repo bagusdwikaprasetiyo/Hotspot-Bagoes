@@ -19,7 +19,7 @@ http://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_768000=7-mp4
 http://210.210.155.35/qwr9ew/s/s03/01.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/800px-GTV_%282017%29.svg.png" group-title="INDONESIA" , GLOBALTV
-https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=778
+http://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_768000=7-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-UkrWcP99K98/W6rZxAtXjpI/AAAAAAAAAsM/vWl7W0F0t1Mn1jJHl6eaUoOdiyOh1R-PwCK4BGAYYCw/s1600/tvone-tv-stream-60883f.jpg" group-title="INDONESIA" , TVONE
 http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
@@ -31,7 +31,7 @@ http://210.210.155.35/x6bnqe/h/h12/01.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://images-channel.mivo.com/channel/image/98/img-live-inewstv.jpg" group-title="INDONESIA" , INEWS TV
-https://tv.mbahnunungonline.net/playlist/inewsPlaylist.m3u8
+http://live.unregister.xyz/live/eds/inews_fta/live_fta/inews_fta-avc1_768000=7-mp4a_64000_eng=2.m3u8
  
 #EXTINF:-1 tvg-logo="https://images-channel.mivo.com/channel/image/51/img-live-nettv.jpg" group-title="INDONESIA" , NET.
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
