@@ -39,7 +39,7 @@ http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 #EXTINF:0 tvg-logo="https://images-channel.mivo.com/channel/image/50/img-live-rtv.jpg" group-title="INDONESIA" , RTV
 http://210.210.155.35/qwr9ew/s/s12/01.m3u8
  
-#EXTINF:0 tvg-logo="https://www.google.com/imgres?imgurl=http%3A%2F%2Fjitv.jogjaprov.go.id%2Fimages%2Flogo_jogja_tv.png" group-title="INDONESIA" , JITV
+#EXTINF:0 tvg-logo="http://jitv.jogjaprov.go.id/images/logo_jogja_tv.png" group-title="INDONESIA" , JITV
 https://mam.jogjaprov.go.id:1937/tv/jitv/chunklist_w822335545.m3u8
 
 #EXTINF:0 tvg-logo="https://images-channel.mivo.com/channel/image/21/img-live-tvrinasional.jpg" group-title="INDONESIA" , TVRI
