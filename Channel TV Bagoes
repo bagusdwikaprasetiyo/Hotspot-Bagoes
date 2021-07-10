@@ -12,8 +12,8 @@ http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/200px-Antv_logo_%282017%29.svg.png" group-title="INDONESIA" , ANTV
 http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
  
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/RCTI_2015.svg/200px-RCTI_2015.svg.png" group-title="INDONESIA" , RCTI
-https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=665
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/RCTI_2015.svg/200px-RCTI_2015.svg.png" group-title="INDONESIA" , RCTI
+http://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_768000=6-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/200px-SCTV_Logo.svg.png" group-title="INDONESIA" , SCTV
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=204
