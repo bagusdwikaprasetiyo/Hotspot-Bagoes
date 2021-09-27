@@ -146,6 +146,9 @@ http://45.64.97.82:9940/;
  
 #EXTINF:-1  tvg-logo="http://jogjastreamers.com/cni-content/uploads/modules/radio/thumbs/small/20200804100137.png" group-title="RADIO" , IRadio 88.7
 https://n11.radiojar.com/4ywdgup3bnzuv?rj-ttl=5&rj-tok=AAABeHn2D0sAeASYli7ciVktqQ
+
+#EXTINF:-1  tvg-logo="https://cdn.webrad.io/images/logos/radioonline-co-id/sonora-fm.png" group-title="RADIO" , Sonora 98.0
+https://streamingv2.shoutcast.com/sonora-surabaya
  
 #EXTINF:-1 tvg-logo="https://indostreamers.com/cni-content/uploads/modules/radio/thumbs/large/20150713032042.jpg" group-title="RADIO" ,MBS 92.7FM
 http://jkt.jogjastreamers.com:8000/mbs2345stereo
