@@ -6,8 +6,8 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1512030896_b744100_
 #EXTINF:0 tvg-logo="https://images-channel.mivo.com/channel/image/13/img-live-mnctv.jpg" group-title="INDONESIA" , MNCTV
 https://anevia114.mncnow.id/live/eds/MNCTV-Merdeka/sa_dash/MNCTV-Merdeka.mpd
 
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="INDONESIA" , INDOSIAR
-http://210.210.155.35/qwr9ew/s/s04/01.m3u8
+#EXTINF:0 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="INDONESIA" , INDOSIAR
+https://liveanevia.mncnow.id/live/eds/INDOSIAR-ryzen/sa_dash/INDOSIAR-ryzen.mpd
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/200px-Antv_logo_%282017%29.svg.png" group-title="INDONESIA" , ANTV
 http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
