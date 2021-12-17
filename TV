@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://images-channel.mivo.com/channel/image/8/img-live-transtv.jpg" group-title="INDONESIA" , TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1512030896_b744100_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://images-channel.mivo.com/channel/image/13/img-live-mnctv.jpg" group-title="INDONESIA" , MNCTV
+#EXTINF:0 tvg-logo="https://images-channel.mivo.com/channel/image/13/img-live-mnctv.jpg" group-title="INDONESIA" , MNCTV
 https://anevia114.mncnow.id/live/eds/MNCTV-Merdeka/sa_dash/MNCTV-Merdeka.mpd
 
 #EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="INDONESIA" , INDOSIAR
@@ -18,8 +18,8 @@ https://liveanevia.mncnow.id/live/eds/RCTI-Indonesia/sa_dash/RCTI-Indonesia.mpd
 #EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/200px-SCTV_Logo.png" group-title="INDONESIA" , SCTV
 http://210.210.155.35/qwr9ew/s/s03/01.m3u8
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/800px-GTV_%282017%29.svg.png" group-title="INDONESIA" , GTV
-https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/800px-GTV_%282017%29.svg.png" group-title="INDONESIA" , GTV
+https://liveanevia.mncnow.id/live/eds/GTV-Perjuangan/sa_dash/GTV-Perjuangan.mpd
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-UkrWcP99K98/W6rZxAtXjpI/AAAAAAAAAsM/vWl7W0F0t1Mn1jJHl6eaUoOdiyOh1R-PwCK4BGAYYCw/s1600/tvone-tv-stream-60883f.jpg" group-title="INDONESIA" , TVONE
 http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
