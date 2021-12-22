@@ -46,7 +46,7 @@ https://mam.jogjaprov.go.id:1937/tv/jitv/chunklist_w822335545.m3u8
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
  
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/1200px-JTV_%282012%29.svg.png" group-title="INDONESIA" , JTV Surabaya
-http://122.248.43.138:1935/ch2/myStream/chunklist_w1177886997.m3u8
+https://liveanevia.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8
  
 #EXTINF:0 tvg-logo="https://www.beritasatu.com/assets/img/beritasatu-logo.jpg" group-title="INDONESIA" , BERITA SATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
