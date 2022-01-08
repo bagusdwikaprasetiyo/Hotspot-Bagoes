@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://images-channel.mivo.com/channel/image/8/img-live-transtv.jpg" group-title="INDONESIA" , TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1512030896_b744100_sleng.m3u8
 
-#EXTINF:0 tvg-logo="https://images-channel.mivo.com/channel/image/13/img-live-mnctv.jpg" group-title="INDONESIA" , MNCTV
+#EXTINF:-1 tvg-logo="https://images-channel.mivo.com/channel/image/13/img-live-mnctv.jpg" group-title="INDONESIA" , MNCTV
 https://livetv01.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
 
 #EXTINF:0 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="INDONESIA" , INDOSIAR
@@ -18,7 +18,7 @@ https://livetv01.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7
 #EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/200px-SCTV_Logo.png" group-title="INDONESIA" , SCTV
 http://210.210.155.35/qwr9ew/s/s03/01.m3u8
  
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/800px-GTV_%282017%29.svg.png" group-title="INDONESIA" , GTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/800px-GTV_%282017%29.svg.png" group-title="INDONESIA" , GTV
 https://livetv01.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-UkrWcP99K98/W6rZxAtXjpI/AAAAAAAAAsM/vWl7W0F0t1Mn1jJHl6eaUoOdiyOh1R-PwCK4BGAYYCw/s1600/tvone-tv-stream-60883f.jpg" group-title="INDONESIA" , TVONE
@@ -31,7 +31,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-4
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1285250272_b744100_sleng.m3u8
  
 #EXTINF:-1 tvg-logo="https://images-channel.mivo.com/channel/image/98/img-live-inewstv.jpg" group-title="INDONESIA" , INEWS TV
-https://fta.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=8-mp4a_96000=2.m3u8
+https://livetv01.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=8-mp4a_96000=2.m3u8
  
 #EXTINF:-1 tvg-logo="https://images-channel.mivo.com/channel/image/51/img-live-nettv.jpg" group-title="INDONESIA" , NET.
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
