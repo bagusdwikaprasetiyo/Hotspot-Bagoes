@@ -13,7 +13,7 @@ https://liveanevia.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 
-#EXTINF:-1 tvg-logo="https://images-channel.mivo.com/channel/image/13/img-live-mnctv.jpg" group-title="INDONESIA", MNC TV
+#EXTINF:-1 tvg-logo="https://images-channel.mivo.com/channel/image/13/img-live-mnctv.jpg" group-title="INDONESIA", MNCTV
 https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #EXTINF:0 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="INDONESIA" , INDOSIAR
