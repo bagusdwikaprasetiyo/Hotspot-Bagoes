@@ -1,0 +1,68 @@
+<tv generator-info-name="WebGrab+Plus/w MDB & REX Postprocess -- version V3.1.5.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+<channel id="MNCTV">
+<display-name lang="id">MNCTV</display-name>
+<icon src="https://mncvision.id/userfiles/image/channel/channel_82.png"/>
+<url>http://www.mncvision.id.E</url>
+</channel>
+
+<programme start="20220329200000 +0700" stop="20220329212000 +0700" channel="MNCTV.MACAN">
+<title lang="id">Kuraih Bintang 2</title>
+</programme>
+<programme start="20220329212000 +0700" stop="20220329224000 +0700" channel="MNCTV.MACAN">
+<title lang="id">Cinta Anak Soleh</title>
+</programme>
+<programme start="20220329224000 +0700" stop="20220330010000 +0700" channel="MNCTV.MACAN">
+<title lang="id">Blockbuster</title>
+</programme>
+<programme start="20220330010000 +0700" stop="20220330020000 +0700" channel="MNCTV.MACAN">
+<title lang="id">Lintas iNews Malam</title>
+</programme>
+<programme start="20220330020000 +0700" stop="20220330021500 +0700" channel="MNCTV.MACAN">
+<title lang="id">Midnite Great Sale</title>
+</programme>
+<programme start="20220330021500 +0700" stop="20220330040000 +0700" channel="MNCTV.MACAN">
+<title lang="id">Sinema Malam</title>
+</programme>
+<programme start="20220330040000 +0700" stop="20220330050000 +0700" channel="MNCTV.MACAN">
+<title lang="id">Lintas iNews Pagi</title>
+</programme>
+<programme start="20220330050000 +0700" stop="20220330060000 +0700" channel="MNCTV.MACAN">
+<title lang="id">Siraman Qolbu, Ustadz Dhanu</title>
+</programme>
+<programme start="20220330060000 +0700" stop="20220330063000 +0700" channel="MNCTV.MACAN">
+<title lang="id">Seleb On News</title>
+</programme>
+<programme start="20220330063000 +0700" stop="20220330070000 +0700" channel="MNCTV.MACAN">
+<title lang="id">Kiko</title>
+</programme>
+<programme start="20220330070000 +0700" stop="20220330090000 +0700" channel="MNCTV.MACAN">
+<title lang="id">Upin & Ipin</title>
+</programme>
+<programme start="20220330090000 +0700" stop="20220330110000 +0700" channel="MNCTV.MACAN">
+<title lang="id">Aladdin</title>
+</programme>
+<programme start="20220330110000 +0700" stop="20220330130000 +0700" channel="MNCTV.MACAN">
+<title lang="id">Putri Duyung & 1001 Keajaiban</title>
+</programme>
+<programme start="20220330130000 +0700" stop="20220330133000 +0700" channel="MNCTV.MACAN">
+<title lang="id">Lintas iNews Siang</title>
+</programme>
+<programme start="20220330133000 +0700" stop="20220330153000 +0700" channel="MNCTV.MACAN">
+<title lang="id">Upin & Ipin</title>
+</programme>
+<programme start="20220330153000 +0700" stop="20220330163000 +0700" channel="MNCTV.MACAN">
+<title lang="id">Shaun The Sheep</title>
+</programme>
+<programme start="20220330163000 +0700" stop="20220330174500 +0700" channel="MNCTV.MACAN">
+<title lang="id">Uang Kaget Lagi</title>
+</programme>
+<programme start="20220330174500 +0700" stop="20220330200000 +0700" channel="MNCTV.MACAN">
+<title lang="id">Upin & Ipin</title>
+</programme>
+<programme start="20220330200000 +0700" stop="20220330220000 +0700" channel="MNCTV.MACAN">
+<title lang="id">Betrand 17 (L)</title>
+</programme>
+<programme start="20220330220000 +0700" stop="20220331010000 +0700" channel="MNCTV.MACAN">
+<title lang="id">Blockbuster</title>
+</programme>
+</tv>
