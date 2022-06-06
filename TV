@@ -66,13 +66,16 @@ http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 http://210.210.155.35/dr9445/h/h10/02.m3u8
  
 #EXTINF:0 tvg-logo="http://jitv.jogjaprov.go.id/images/logo_jogja_tv.png" group-title="INDONESIA" , JITV
-https://mam.jogjaprov.go.id:1937/tv/jitv/chunklist_w822335545.m3u8
+http://103.255.15.222:1935/tv/jitv_720p/chunklist_w973551496.m3u8
 
 #EXTINF:0 tvg-logo="https://television-live.com/uploads/posts/tbrtehewegweg.png" group-title="INDONESIA" , ADITV
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://images-channel.mivo.com/channel/image/21/img-live-tvrinasional.jpg" group-title="INDONESIA" , TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+
+#EXTINF:0 tvg-logo="http://jogjatv.tv/wp-content/uploads/2015/08/LOGO-JOGJA-TV-NEW-pii-new1-300x172.png" group-title="INDONESIA" , JogjaTV
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
  
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/1200px-JTV_%282012%29.svg.png" group-title="INDONESIA" , JTV Surabaya
 https://liveanevia.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8
