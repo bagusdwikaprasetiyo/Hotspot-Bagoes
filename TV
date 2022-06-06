@@ -62,16 +62,16 @@ https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RPT8O12.png" group-title="INDONESIA" , NET.
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
  
-#EXTINF:0 tvg-logo="https://images-channel.mivo.com/channel/image/50/img-live-rtv.jpg" group-title="INDONESIA" , RTV
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png" group-title="INDONESIA" , RTV
 http://210.210.155.35/dr9445/h/h10/02.m3u8
  
 #EXTINF:0 tvg-logo="http://jitv.jogjaprov.go.id/images/logo_jogja_tv.png" group-title="INDONESIA" , JITV
 http://103.255.15.222:1935/tv/jitv_720p/chunklist_w973551496.m3u8
 
-#EXTINF:0 tvg-logo="https://television-live.com/uploads/posts/tbrtehewegweg.png" group-title="INDONESIA" , ADITV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/59/ADiTV_Jogja.png" group-title="INDONESIA" , ADITV
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://images-channel.mivo.com/channel/image/21/img-live-tvrinasional.jpg" group-title="INDONESIA" , TVRI
+#EXTINF:0 tvg-logo="https://i.imgur.com/lcH92DJ.png" group-title="INDONESIA" , TVRI
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/58/Jogjatv3d.png" group-title="INDONESIA" , JogjaTV
@@ -80,7 +80,7 @@ https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/1200px-JTV_%282012%29.svg.png" group-title="INDONESIA" , JTV Surabaya
 https://liveanevia.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8
  
-#EXTINF:0 tvg-logo="https://www.beritasatu.com/assets/img/beritasatu-logo.jpg" group-title="INDONESIA" , BERITA SATU
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/BeritaSatu_%28Indonesian_news_channel%29.png/512px-BeritaSatu_%28Indonesian_news_channel%29.png" group-title="INDONESIA" , BERITA SATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
 #EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-At4b_aeuYZ0/XHsiMVBad_I/AAAAAAAAnZ4/lPCQWFUSgi4mPlhYF6V6_n25JbDar4TfgCLcBGAs/s1600/rri-net-tv-channel-logo.png" group-title="INDONESIA" , RRINET TV
