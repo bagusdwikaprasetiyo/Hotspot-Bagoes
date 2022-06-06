@@ -161,7 +161,7 @@ https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
  
-#EXTINF:-1 tvg-logo="https://www.mewatch.sg/image/11230408/16x9/947/533/aee3ee3e5c1faea19d10b8a70780d63d/BR/hbo-family.png" group-title="MOVIE" , HBO FAMILY
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TmGc8Tw/gxy.png" group-title="MOVIE" , HBO FAMILY
 https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
