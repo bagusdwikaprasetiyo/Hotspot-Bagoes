@@ -89,8 +89,12 @@ http://36.89.47.217:11935/rrinet/live/chunklist_kamiselaluada.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/512px-CNN_Indonesia.svg.png" group-title="INDONESIA" , CNN INDONESIA
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png" group-title="INDONESIA" , Kompas TV
-http://210.210.155.35/qwr9ew/s/s104/01.m3u8
+https://on-load.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 ====================================================KIDS=========================================================
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/200px-2014_Disney_Channel_logo.svg.png" group-title="KIDS", DISNEY CHANNEL
 http://iptv.tvmalaysia.cc:80/139664/139664/7196
