@@ -17,7 +17,7 @@ https://liveanevia.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="INDONESIA" , INDOSIAR
-http://210.210.155.35/qwr9ew/s/s04/01.m3u8
+https://dukun.masuk.id/lokal/indosiar1.m3u8
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
@@ -34,7 +34,7 @@ https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/200px-SCTV_Logo.png" group-title="INDONESIA" , SCTV
-http://210.210.155.35/qwr9ew/s/s03/01.m3u8
+https://dukun.masuk.id/lokal/sctv1.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
