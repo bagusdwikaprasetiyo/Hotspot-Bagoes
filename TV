@@ -107,12 +107,12 @@ https://vcdnjt.useetv.com/joss/15/dreamworks/chunklist_w1016025798_b894100_sleng
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XdhRaYM.png" group-title="KIDS" , KidsTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XdhRaYM.png" group-title="KIDS" , Kids TV
 https://on-load.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B5MAphH.png" group-title="KIDS" , MiaoMi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B5MAphH.png" group-title="KIDS" , Miao Mi
 https://on-load.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
