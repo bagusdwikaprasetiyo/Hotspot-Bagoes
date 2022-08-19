@@ -105,8 +105,8 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b2800
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png" group-title="INDONESIA" , Kompas TV
 https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 ====================================================KIDS=========================================================
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/200px-2014_Disney_Channel_logo.svg.png" group-title="KIDS", DISNEY CHANNEL
-http://iptv.tvmalaysia.cc:80/139664/139664/7196
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/a54b80cbfb5b24e8360fd.png" group-title="KIDS", DISNEY CHANNEL
+http://51.79.82.231:8080/US_DISNEY_CHANNEL_EAST_USA/video.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/83-835216_disney-junior-png-junior-disney-ai-logo-transparent.png" group-title="KIDS" , DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
