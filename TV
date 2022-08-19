@@ -78,7 +78,7 @@ http://103.255.15.222:1935/tv/jitv_720p/chunklist_w973551496.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/59/ADiTV_Jogja.png" group-title="INDONESIA" , ADITV
 https://v2.siar.us/aditv/livestream/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/lcH92DJ.png" group-title="INDONESIA" , TVRI Nasional
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lcH92DJ.png" group-title="INDONESIA" , TVRI Yogyakarta
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/58/Jogjatv3d.png" group-title="INDONESIA" , JogjaTV
