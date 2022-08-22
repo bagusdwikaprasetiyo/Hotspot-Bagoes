@@ -105,15 +105,6 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b2800
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png" group-title="INDONESIA" , Kompas TV
 https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 ====================================================KIDS=========================================================
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/a54b80cbfb5b24e8360fd.png" group-title="KIDS", DISNEY CHANNEL
-http://51.79.82.231:8080/US_DISNEY_CHANNEL_EAST_USA/video.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/83-835216_disney-junior-png-junior-disney-ai-logo-transparent.png" group-title="KIDS" , DISNEY JUNIOR
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="KIDS" , CARTOON NETWORK HD
-http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XdhRaYM.png" group-title="KIDS" , Kids TV
@@ -126,7 +117,7 @@ https://on-load.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_cartoonnetwork_hd.png" group-title="KIDS" , CARTOON NETWORK
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_cartoonnetwork_hd.png" group-title="KIDS" , CARTOON NETWORK HD
 https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -151,12 +142,6 @@ https://on-load.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
  
 #EXTINF:-1  tvg-logo="https://images.sgcafe.net/2017/08/Aniplus-HD.jpg" group-title="KIDS" , ANIPLUS
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
- 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WnZaIlo.jpg" group-title="KIDS" , DUCK TV
-http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
- 
-#EXTINF:-1 logo="https://i.ytimg.com/vi/YiiTZ-f32oU/hqdefault_live.jpg" group-title="KIDS", LARVA TV
-http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
 ====================================================SPORT=========================================================
 #EXTINF:-1 tvg-logo="https://images.useetv.com/tvposter/useeSport.png" group-title="SPORT" , Usee Sports
 https://vcdnjt.useetv.com:443/joss/15/useesport/chunklist_w1734341269_b894100_sleng_177560.m3u8?enc=04WgtycFcN-cMIKu6JcrMQ&exp=1587471571
