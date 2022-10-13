@@ -221,14 +221,13 @@ https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mp
 #EXTINF:0 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_zeebioskop.png" group-title="MOVIE", Zee Bioskop
 https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 ====================================================MUSIK=========================================================
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/Prambors.svg/1200px-Prambors.svg.png" group-title="MUSIK" , PRAMBROS
-https://cdn12jtedge.useetv.com/dass/130/pramborstv_dash/manifest_wuseetv.mpd?encp=B7OAfEqetEEVs3bEyJFz7Q&uid=&expp=1646763882
- 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d1/Karaoke_channel_id.png/revision/latest/scale-to-width-down/340?cb=20190711121840" group-title="MUSIK" , Karaoke Channel
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?fluxustv.m3u8
- 
-#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1149.1464128411.png" group-title="MUSIK" , BOX HITS
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20400813_ico.png?ts=1655398296" group-title="Music",POP MUSIK
+https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf06NrwyoydcQVs567DMs9ZebzNq-wlJD7xg&usqp=CAU" group-title="Music",MUSIC TV
+https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 ====================================================RADIO=========================================================
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/49/Logo_-_Radio_Retjo_Buntung_FM_Yogyakarta.jpg/250px-Logo_-_Radio_Retjo_Buntung_FM_Yogyakarta.jpg" group-title="RADIO" , Retjo Buntung Yogyakarta 99.4FM
 http://45.64.97.82:9940/;
