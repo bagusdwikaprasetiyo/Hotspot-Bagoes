@@ -246,3 +246,6 @@ https://22283.live.streamtheworld.com/PRAMBORS_FM.mp3?dist=pramborsweb&tdsdk=js-
  
 #EXTINF:-1 tvg-logo="https://indostreamers.com/cni-content/uploads/modules/radio/thumbs/large/20160427090757.png" group-title="RADIO" ,Swaragama Jogja 101.7FM
 https://proxy.beta.noice.id/proxy-v2?http://202.65.114.229:9314/;
+
+#EXTINF:-1 tvg-logo="	https://images.noiceid.cc/catalog/300x300/content-1646376201322" group-title="RADIO" ,JIZ 89.5FM
+https://pu.klikhost.com/proxy/jizfm/stream
