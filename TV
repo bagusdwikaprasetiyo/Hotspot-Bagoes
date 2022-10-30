@@ -241,8 +241,8 @@ https://streamingv2.shoutcast.com/sonora-surabaya
 #EXTINF:-1 tvg-logo="https://indostreamers.com/cni-content/uploads/modules/radio/thumbs/large/20150713032042.jpg" group-title="RADIO" ,MBS 92.7FM
 http://jgj.jogjastreamers.com:8000/mbs2345stereo?s=615444703814256
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/Prambors.svg/1200px-Prambors.svg.png" group-title="RADIO" ,Prambors Jogja 95.8FM
-https://22283.live.streamtheworld.com/PRAMBORS_FM.mp3?dist=pramborsweb&tdsdk=js-2.9&lat=-7.8&long=110.4&pname=tdwidgets&pversion=2.9&banners=300x250&sbmid=4c1696ec-42e8-49f2-f08b-aae939758cfb
+#EXTINF:-1 tvg-logo="https://images.noiceid.cc/catalog/300x300/content-1614529764683.jpg" group-title="RADIO" ,Gen 103.1FM
+https://proxy.beta.noice.id/proxy-v1/103.246.184.62:1935/noice_genfmsby/gensbyic.stream/chunklist_w1390073126.m3u8
  
 #EXTINF:-1 tvg-logo="https://indostreamers.com/cni-content/uploads/modules/radio/thumbs/large/20160427090757.png" group-title="RADIO" ,Swaragama Jogja 101.7FM
 https://proxy.beta.noice.id/proxy-v2?http://202.65.114.229:9314/;
