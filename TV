@@ -148,7 +148,7 @@ https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #EXTINF:-1  tvg-logo="https://images.sgcafe.net/2017/08/Aniplus-HD.jpg" group-title="KIDS" , ANIPLUS
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 ====================================================SPORT=========================================================
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2019/09/04/2caaa8cc-9e41-46ad-ab91-8426389f6b15_169.jpeg?w=650&q=90", PIALA DUNIA
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2019/09/04/2caaa8cc-9e41-46ad-ab91-8426389f6b15_169.jpeg?w=650&q=90", PIALA DUNIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
 
