@@ -17,7 +17,7 @@ https://anevia114.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 https://anevia114.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="INDONESIA" , INDOSIAR
-https://k.ksa.my.id/ksa.m3u8?a=11c29c48146372ad4d14&b=204991a99793a98926d2&c=8f5ffddd6e9165aa1117
+http://mpwtv.my.id/vidioye/205-indosiar.m3u8
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
@@ -34,7 +34,7 @@ https://anevia114.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 https://anevia114.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/200px-SCTV_Logo.png" group-title="INDONESIA" , SCTV
-http://nonton.wap.sh/id/009.m3u8
+http://210.210.155.35/qwr9ew/s/s03/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=SCTV
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
@@ -91,8 +91,8 @@ https://liveanevia.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/BeritaSatu_%28Indonesian_news_channel%29.png/512px-BeritaSatu_%28Indonesian_news_channel%29.png" group-title="INDONESIA" , BERITA SATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-At4b_aeuYZ0/XHsiMVBad_I/AAAAAAAAnZ4/lPCQWFUSgi4mPlhYF6V6_n25JbDar4TfgCLcBGAs/s1600/rri-net-tv-channel-logo.png" group-title="INDONESIA" , RRINET TV
-http://36.89.47.217:11935/rrinet/live/chunklist_kamiselaluada.m3u8
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-At4b_aeuYZ0/XHsiMVBad_I/AAAAAAAAnZ4/lPCQWFUSgi4mPlhYF6V6_n25JbDar4TfgCLcBGAs/s1600/rri-net-tv-channel-logo.png" group-title="INDONESIA" , RRINET TV
+https://rrinet.rritmb.com/hls/live-2869.ts
  
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/512px-CNN_Indonesia.svg.png" group-title="INDONESIA" , CNN INDONESIA
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
