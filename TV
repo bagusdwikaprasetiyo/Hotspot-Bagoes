@@ -29,7 +29,7 @@ https://anevia114.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/RCTI_2015.svg/200px-RCTI_2015.svg.png"  group-title="INDONESIA" , RCTI
-https://anevia114.mncnow.id/live/eds/RCTI-HD/sa_dash_vmx/RCTI-HD.mpd
+https://anevia114.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/200px-SCTV_Logo.png" group-title="INDONESIA" , SCTV
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8
@@ -56,14 +56,14 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-4
 https://anevia114.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
- 
 #EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C510BAQEDNZ0BcKErOg/company-logo_200_200/0/1531298381792?e=2147483647&v=beta&t=V4hdxgyI8cGLg5U7Cs3gJo6Egs2svJb0oGwPveeiiJM" group-title="INDONESIA" , INews
 https://anevia114.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RPT8O12.png" group-title="INDONESIA" , NET.
 https://anevia114.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
