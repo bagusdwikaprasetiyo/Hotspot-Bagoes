@@ -10,6 +10,7 @@ org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?use
 https://anevia114.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SK8pjQy.png" group-title="INDONESIA", MNC TV
@@ -19,6 +20,7 @@ https://anevia114.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png" group-title="INDONESIA" , ANTV
