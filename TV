@@ -239,5 +239,8 @@ https://proxy.beta.noice.id/proxy-v1/103.246.184.62:1935/noice_genfmsby/gensbyic
 #EXTINF:-1 tvg-logo="https://indostreamers.com/cni-content/uploads/modules/radio/thumbs/large/20160427090757.png" group-title="RADIO" ,Swaragama Jogja 101.7FM
 https://proxy.beta.noice.id/proxy-v2?http://202.65.114.229:9314/;
 
-#EXTINF:-1 tvg-logo="	https://images.noiceid.cc/catalog/300x300/content-1646376201322" group-title="RADIO" ,JIZ 89.5FM
+#EXTINF:-1 tvg-logo="https://images.noiceid.cc/catalog/300x300/content-1646376201322" group-title="RADIO" ,JIZ 89.5FM
 https://pu.klikhost.com/proxy/jizfm/stream
+
+#EXTINF:-1 tvg-logo="https://images.noiceid.cc/catalog/300x300/content-1625051342813.jpg" group-title="RADIO" ,Geronimo 106.1 FM
+https://proxy.beta.noice.id/proxy-v2?http://103.153.2.58:8018/;
