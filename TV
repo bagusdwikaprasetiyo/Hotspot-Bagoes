@@ -93,7 +93,7 @@ https://anevia114.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-At4b_aeuYZ0/XHsiMVBad_I/AAAAAAAAnZ4/lPCQWFUSgi4mPlhYF6V6_n25JbDar4TfgCLcBGAs/s1600/rri-net-tv-channel-logo.png" group-title="INDONESIA" , RRINET TV
-https://rrinet.rritmb.com/hls/live-2869.ts
+https://rrinet.rri.co.id/hls/live.m3u8
  
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/512px-CNN_Indonesia.svg.png" group-title="INDONESIA" , CNN INDONESIA
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
