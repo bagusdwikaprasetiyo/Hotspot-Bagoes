@@ -219,12 +219,12 @@ https://anevia114.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 ====================================================MUSIK=========================================================
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G2Xh1qXY/1681585634632.png",Aquarius Musikindo
-#EXTGRP:Music
-http://12537-stream-ip-tv.xyz/api/yt/stream/by-id/UAH5W9zo-9U/index.m3u8
+#EXTGRP:MUSIK
+http://12537-stream-ip-tv.xyz/playlist/api/yt/stream/by-id/UAH5W9zo-9U/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf06NrwyoydcQVs567DMs9ZebzNq-wlJD7xg&usqp=CAU" group-title="Music",MUSIC TV
+#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf06NrwyoydcQVs567DMs9ZebzNq-wlJD7xg&usqp=CAU" group-title="MUSIK",MUSIC TV
 https://anevia114.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 ====================================================RADIO=========================================================
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/49/Logo_-_Radio_Retjo_Buntung_FM_Yogyakarta.jpg/250px-Logo_-_Radio_Retjo_Buntung_FM_Yogyakarta.jpg" group-title="RADIO" , Retjo Buntung Yogyakarta 99.4FM
