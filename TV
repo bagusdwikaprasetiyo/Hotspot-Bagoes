@@ -230,7 +230,7 @@ https://aquariusmusikindo.hotspotbagoestv.workers.dev/stream/AquariusMusikindo/m
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf06NrwyoydcQVs567DMs9ZebzNq-wlJD7xg&usqp=CAU" group-title="MUSIK",MUSIC TV
+#EXTINF:0 tvg-id="" tvg-logo="https://www.mncchannels.com/timthumb.php?zc=3&w=378&h=129&src=/files/logo/1579059453_logo_music%20tv.png" group-title="MUSIK",MUSIC TV
 https://anevia114.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 ====================================================RADIO=========================================================
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/49/Logo_-_Radio_Retjo_Buntung_FM_Yogyakarta.jpg/250px-Logo_-_Radio_Retjo_Buntung_FM_Yogyakarta.jpg" group-title="RADIO" , Retjo Buntung Yogyakarta 99.4FM
