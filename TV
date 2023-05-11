@@ -218,9 +218,11 @@ https://anevia114.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 ====================================================MUSIK=========================================================
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/G2Xh1qXY/1681585634632.png",Aquarius Musikindo
+#EXTINF:-1 tvg-id="Prambors" tvg-logo="https://i.imgur.com/5lLTBDV.png",Prambors TV
 #EXTGRP:MUSIK
-http://12537-stream-ip-tv.xyz/playlist/api/yt/stream/by-id/UAH5W9zo-9U/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=pramborstv
+https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=pramborstv
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
