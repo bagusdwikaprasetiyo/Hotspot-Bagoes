@@ -183,8 +183,6 @@ https://janda.kutubusuk.workers.dev/dash-wv/linear/408/default.mpd
 https://beetv.my.id/x/usee-bein2-gojokkk.m3u8
  
 ====================================================MOVIE=========================================================
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="MOVIE" , HBO
 https://list.iptvcat.com/my_list/s/3fd4748f09f4541a86cdae7bc70d3d16.m3u8
