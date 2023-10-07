@@ -25,7 +25,10 @@ http://12537-stream-ip-tv.xyz/play/channels/erceteplus/rcti/index.m3u8
 
 #EXTINF:0 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/200px-SCTV_Logo.png" group-title="INDONESIA" , SCTV
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cd6e8eda22394/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/ 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jjuKnYs.png" group-title="INDONESIA" , GTV
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cd6e8eda22394/manifest.m3u8
 
