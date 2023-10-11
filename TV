@@ -65,10 +65,10 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" group-title="INDONESIA" , Mentari TV
-http://103.152.118.53:80/play/pidio/hls/8237-mentari-tv/master.m3u8
+http://103.152.118.53:80/play/pidio/hls/8237-mentari-tv/index.m3u8
  
 #EXTINF:0 tvg-logo="http://jitv.jogjaprov.go.id/images/logo_jogja_tv.png" group-title="INDONESIA" , JITV
-http://103.255.15.222:1935/tv/jitv_720p/chunklist_w973551496.m3u8
+https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w2140705231.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/59/ADiTV_Jogja.png" group-title="INDONESIA" , ADITV
 https://v2.siar.us/aditv/livestream/playlist.m3u8
