@@ -2,7 +2,7 @@
 
 ====================================================INDONESIA=========================================================
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="INDONESIA", Trans TV
-#http://202.147.193.244/live/eds/TransTV-2/sa_dash/TransTV-2.mpd
+http://202.147.193.244/live/eds/TransTV-2/sa_dash/TransTV-2.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SK8pjQy.png" group-title="INDONESIA", MNC TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
